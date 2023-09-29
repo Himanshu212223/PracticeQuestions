@@ -37,7 +37,7 @@ int main(){
         numb = numb >> 1 ;
     }
 
-    cout <<<"Total number of 1s : "<< count << endl ;
+    cout <<<"Total number of 1s in "<< numb << " is : "<< count << endl ;
     
     return 0 ;
 }
